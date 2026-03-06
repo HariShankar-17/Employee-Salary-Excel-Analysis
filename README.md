@@ -77,3 +77,30 @@ These functions were used to transform raw employee data into meaningful insight
 ---
 
 ## Project Structure
+
+Employee-Salary-Excel-Analysis
+│
+├── Employee_Salary_Analysis.xlsx
+│
+└── README.md
+
+---
+
+## View the Excel Project
+
+You can open and explore the Excel workbook here:
+
+🔗 https://1drv.ms/x/c/20f6f233fa534355/IQDy59uGJnGXQ7zb9yXEp5UoAc6KIZta66pjeKQ8-e2sqqc?e=lgDfji
+
+---
+
+## Skills Demonstrated
+
+- Data Analysis using Excel  
+- Data Filtering and Transformation  
+- Business Question Analysis  
+- Lookup Functions for Data Retrieval  
+- Aggregation using Conditional Functions  
+- Spreadsheet-based Data Exploration  
+
+---
